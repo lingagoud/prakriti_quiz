@@ -1,0 +1,10 @@
+{
+    "addQuestion":{
+        "question_num":1,
+        "has_pic":false,
+        "pic":"null",
+        "content":"hello",
+        "answer":"test",
+        "marks":5
+    }
+}
